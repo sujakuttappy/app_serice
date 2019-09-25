@@ -1,5 +1,5 @@
-variable "resource_group" {default = "devops"}
-variable "location" {default = "eastus"}
-variable "kind" {default = "windows"}
-variable "count" {default = "1"}
-variable "linux_version" {default = "PYTHON|3.7"}
+variable "resource_group" {}
+variable "location" {}
+variable "kind" {}
+variable "count" {}
+variable "linux_version" {}
